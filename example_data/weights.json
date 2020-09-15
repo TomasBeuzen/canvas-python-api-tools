@@ -1,0 +1,78 @@
+{
+    "Instructions": {
+        "Mechanics": 2,
+        "Spark (bonus)": 1
+    },
+    "1.1": {
+        "Autograde": 1,
+        "Spark (bonus)": 1
+    },
+    "1.2": {
+        "Autograde": 1,
+        "Spark (bonus)": 1
+    },
+    "1.3": {
+        "Autograde": 1,
+        "Spark (bonus)": 1
+    },
+    "1.4": {
+        "Autograde": 1,
+        "Spark (bonus)": 1
+    },
+    "2.1": {
+        "Accuracy": 1,
+        "Spark (bonus)": 1
+    },
+    "2.2": {
+        "Accuracy": 1,
+        "Spark (bonus)": 1
+    },
+    "2.3": {
+        "Accuracy": 1,
+        "Spark (bonus)": 1
+    },
+    "3.1": {
+        "Autograde": 1,
+        "Spark (bonus)": 1
+    },
+    "3.2": {
+        "Autograde": 1,
+        "Spark (bonus)": 1
+    },
+    "Exercise 4: Making Sushi": {
+        "Autograde": 1,
+        "Spark (bonus)": 1
+    },
+    "5.1": {
+        "Autograde": 1,
+        "Spark (bonus)": 1
+    },
+    "5.2": {
+        "Autograde": 1,
+        "Spark (bonus)": 1
+    },
+    "5.3": {
+        "Autograde": 1,
+        "Spark (bonus)": 1
+    },
+    "6.1": {
+        "Accuracy": 1,
+        "Quality": 1,
+        "Spark (bonus)": 1
+    },
+    "6.2": {
+        "Accuracy": 2,
+        "Quality": 2,
+        "Spark (bonus)": 1
+    },
+    "Exercise 7: Simulating a Random Walk in 2D": {
+        "Accuracy": 3,
+        "Quality": 3,
+        "Spark (bonus)": 1
+    },
+    "(Optional) Exercise 8: Integer Division": {
+        "Reasoning": 1,
+        "Spark (bonus)": 1,
+        "is_bonus": true
+    }
+}
